@@ -1,5 +1,0 @@
-version=20261023-2045
-mode=direct
-sha256=462609234b58e90a715ed3c660e61e0703df12e2dd97d26071000cc6dbf91d53
-url=https://duskchen.github.io/DreadKiller/DreadKiller.so|https://cdn.jsdelivr.net/gh/duskchen/DreadKiller@main/DreadKiller.so|https://ghproxy.net/https://raw.githubusercontent.com/duskchen/DreadKiller/main/DreadKiller.so
-note=ver 20261023-2045
