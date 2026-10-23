@@ -1,0 +1,4 @@
+version=1.0.2
+mode=base64
+url=https://duskchen.github.io/DreadKiller/DreadKiller%5Bbase64%5D.so|https://cdn.jsdelivr.net/gh/duskchen/DreadKiller@main/DreadKiller%5Bbase64%5D.so|https://ghproxy.net/https://raw.githubusercontent.com/duskchen/DreadKiller/main/DreadKiller%5Bbase64%5D.so
+note=ver 1.0.2
