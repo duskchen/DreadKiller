@@ -1,0 +1,4 @@
+version=1.0.1
+mode=base64
+url=https://duskchen.github.io/DreadKiller/libDreadKiller.so.b64|https://cdn.jsdelivr.net/gh/duskchen/DreadKiller@main/libDreadKiller.so.b64|https://ghproxy.net/https://raw.githubusercontent.com/duskchen/DreadKiller/main/libDreadKiller.so.b64
+note=ver 1.0.1
