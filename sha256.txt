@@ -1,0 +1,7 @@
+version=20261108_4
+sha256=779641a3e1204d79f2e647fcbadbdbd3e67a4c03d3d7be4dc54e7227b22adc34
+size=8636488
+url=https://cdn.jsdelivr.net/gh/duskchen/DreadKiller@v20261108_4/libmain.so
+mirrors=https://ghproxy.net/https://raw.githubusercontent.com/duskchen/DreadKiller/v20261108_4/libmain.so|https://gh-proxy.com/https://raw.githubusercontent.com/duskchen/DreadKiller/v20261108_4/libmain.so|https://raw.githubusercontent.com/duskchen/DreadKiller/v20261108_4/libmain.so
+note=release 20261108_4
+################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################################
