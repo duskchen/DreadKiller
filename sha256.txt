@@ -1,6 +1,6 @@
-version=20261108_9
-seq=2611081239
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_9/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_9/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_9/libmain.so
-zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_9/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_9/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_9/libmain.zip
+version=20261108_10
+seq=2611081323
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_10/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_10/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_10/libmain.so
+zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_10/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_10/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_10/libmain.zip
 note=说明
 
