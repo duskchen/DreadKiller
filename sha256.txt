@@ -1,6 +1,6 @@
-version=20261108_14
-seq=2611080729
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.so
-zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.zip
-note=R469 载荷压缩容器(体积-52%) + 配置仅读取时校正
+version=20261108_16
+seq=2611080750
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_16/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_16/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_16/libmain.so
+zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_16/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_16/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_16/libmain.zip
+note=R472 云端字段密表下发 + 单层XOR
 
