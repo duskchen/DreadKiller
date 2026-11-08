@@ -1,6 +1,6 @@
-version=20261108_19
-seq=2611081034
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_19/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_19/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_19/libmain.so
-zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_19/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_19/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_19/libmain.zip
-note=R506/R507: 载具过滤报废+自身载具 + 箱子价值空实现 + 受击点修复
+version=20261108_20
+seq=2611081836
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.so
+zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.zip
+note=说明
 
