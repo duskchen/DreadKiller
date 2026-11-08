@@ -1,6 +1,6 @@
-version=20261108_22
-seq=2611081044
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_22/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_22/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_22/libmain.so
-zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_22.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_22.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_22/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_22/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_22/libmain.zip
-note=R509: zip下载线路 gcore优先(实测1.7MB/s稳定) + testingcf备，剔除fastly(301到raw)
+version=20261108_23
+seq=2611082035
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_23/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_23/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_23/libmain.so
+zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_23.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_23.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_23/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_23/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_23/libmain.zip
+note=说明
 
