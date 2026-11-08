@@ -1,6 +1,6 @@
-version=20261108_25
-seq=2611082100
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_25/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_25/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_25/libmain.so
-zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_25.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_25.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_25/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_25/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_25/libmain.zip
-note=说明
+version=20261108_26
+seq=2611081351
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_26/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_26/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_26/libmain.so
+zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_26.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_26.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_26/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_26/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_26/libmain.zip
+note=R518/R519/R523: 崩溃修复 + 页面同步 + 远程更新链路(GitHub版本源/单线程zip) + 触摸与直装一致
 
