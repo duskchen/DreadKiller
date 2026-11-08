@@ -1,6 +1,6 @@
-version=20261108_13
-seq=2611080723
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_13/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_13/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_13/libmain.so
-zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_13/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_13/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_13/libmain.zip
-note=R468 配置行上下限收口 + 开关非1即关 + 字段各行独立密钥
+version=20261108_14
+seq=2611080729
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.so
+zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_14/libmain.zip
+note=R469 载荷压缩容器(体积-52%) + 配置仅读取时校正
 
