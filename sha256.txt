@@ -1,6 +1,6 @@
-version=20261108_20
-seq=2611081836
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.so
-zipurl=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_20/libmain.zip
-note=说明
+version=20261108_21
+seq=2611081042
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_21/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_21/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_21/libmain.so
+zipurl=https://fastly.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_21.zip|https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_21.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_21.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_21/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_21/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_21/libmain.zip
+note=R508: 下载线路改用 jsDelivr 三节点优先（fastly/gcore/testingcf），仓库同步 zip
 
