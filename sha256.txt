@@ -1,6 +1,6 @@
-version=20261108_28
-seq=2611081404
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_28/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_28/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261108_28/libmain.so
-zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_28.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261108_28.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261108_28/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261108_28/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261108_28/libmain.zip
-note=R524/R525: 正式版日志关闭 + 传参合法性(指针/坐标/id) + Old_指针判空
+version=20261109_1
+seq=2611091207
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261109_1/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261109_1/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261109_1/libmain.so
+zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261109_1.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261109_1.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261109_1/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261109_1/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261109_1/libmain.zip
+note=说明
 
