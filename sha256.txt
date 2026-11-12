@@ -1,6 +1,6 @@
-version=20261112_3
-seq=2611121532
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261112_3/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261112_3/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261112_3/libmain.so
-zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261112_3.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261112_3.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261112_3/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261112_3/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261112_3/libmain.zip
+version=20261112_4
+seq=2611121550
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261112_4/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261112_4/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261112_4/libmain.so
+zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261112_4.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261112_4.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261112_4/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261112_4/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261112_4/libmain.zip
 note=作者:暮Chen
 
