@@ -1,6 +1,6 @@
-version=20261109_2
-seq=2611090457
-url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261109_2/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261109_2/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261109_2/libmain.so
-zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261109_2.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261109_2.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261109_2/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261109_2/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261109_2/libmain.zip
-note=R526/R527: 修更新完重进仍提示更新（版本判定改用 GitHub latest 权威版本；写记录统一写真实版本）
+version=20261112_1
+seq=2611121523
+url=https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261112_1/libmain.so|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261112_1/libmain.so|https://github.com/duskchen/DreadKiller/releases/download/v20261112_1/libmain.so
+zipurl=https://gcore.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261112_1.zip|https://testingcf.jsdelivr.net/gh/duskchen/DreadKiller@main/libmain_20261112_1.zip|https://ghproxy.net/https://github.com/duskchen/DreadKiller/releases/download/v20261112_1/libmain.zip|https://gh-proxy.com/https://github.com/duskchen/DreadKiller/releases/download/v20261112_1/libmain.zip|https://github.com/duskchen/DreadKiller/releases/download/v20261112_1/libmain.zip
+note=说明
 
